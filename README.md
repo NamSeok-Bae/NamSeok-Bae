@@ -10,4 +10,7 @@
 
 ### 📮 Contact
  <a href="mailto:trumanfromkorea@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=qoskatjr2@gmail.com"/></a>
+ 
+![NamSeok-Bae's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamSeok-Bae&show_icons=true&count_private=true)
+ 
 </div>
