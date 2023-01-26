@@ -1,6 +1,6 @@
 <div>
 <h3>💻  Languages</h3>
-<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"><!-- Java -->
+<img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white">
 <img alt="IOS" src="https://img.shields.io/badge/-IOS-000?style=flat-square&logo=apple&logoColor=ffffff" />
 
 
