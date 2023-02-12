@@ -5,7 +5,8 @@
 
 
 ### 📮 Contact
- <a href="mailto:qoskatjr2@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=qoskatjr2@gmail.com"/></a>
+ [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:qoskatjr2@gmail.com)](mailto:qoskatjr2@gmail.com)
+ [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:poqo2@naver.com)](mailto:poqo2@naver.com)
 <br>
 <br>
 ![NamSeok-Bae's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NamSeok-Bae&show_icons=true&hide_border=false&title_color=004386&icon_color=004386&layout=compact)
